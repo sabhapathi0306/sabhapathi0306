@@ -1,4 +1,4 @@
-## Hi there..! 👋
+## Hi there..! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 <!--
 **sabhapathi0306/sabhapathi0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
