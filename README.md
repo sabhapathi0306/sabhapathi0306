@@ -1,4 +1,4 @@
-## Hi there..! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+ ## Hi there..! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 <!--
 **sabhapathi0306/sabhapathi0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I´m Adithya Sabhapathi.
+
+Data Engineer | Data Enthusiast | Exploring AI Engineering
 
 
 ### 💻 Technologies & Tools:
