@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I´m Adithya, Data Engineer from India.
+I´m Adithya Sabhapathi.
 
 
 ### 💻 Technologies & Tools:
