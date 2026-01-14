@@ -97,12 +97,10 @@ I enjoy turning raw data into **reliable, observable, and production-ready syste
 
 ### Version Control & OS
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabhapathi0306&theme=tokyo-night&hide_border=true" />
+  <img src="https://stats-github-readme.vercel.app/api?username=sabhapathi0306&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
 </p>
 
 💡 *I enjoy designing systems that scale and data that can be trusted.*
